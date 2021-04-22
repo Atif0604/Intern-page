@@ -144,7 +144,7 @@
   }
 
   .entry-form .submit-btn:hover {
-    background: #3f51b5;
+    background:  #29ca8e;
     color: #ffffff;
   }
 
@@ -397,7 +397,7 @@
   }
 
   .feature-thumb span {
-    background: #3f51b5;
+    background:  #29ca8e;
     border-radius: 50px;
     color: #ffffff;
     font-size: 25px;
@@ -581,7 +581,7 @@
   }
 
   .courses-price.free span {
-    background: #3f51b5;
+    background:  #29ca8e;
   }
 
 
@@ -642,7 +642,7 @@
   }
 
   .tst-rating .fa {
-    color: #3f51b5;
+    color:  #29ca8e;
   }
 
   .tst-image,
@@ -676,7 +676,7 @@
   -----------------------------------------*/
 
   #contact {
-    background: #3f51b5;
+    background:  #29ca8e;
   }
 
   #contact h2 {
